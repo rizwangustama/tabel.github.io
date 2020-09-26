@@ -1,15 +1,16 @@
-#tabel1{
+#tabel1 {
     padding-left: 20px;
     border-collapse: collapse;
     width: 100%;
     border-bottom: solid 1px #ccc;
 }
-.konten{
+
+.konten {
     padding-left: 13px;
    padding-right: 13px;
 }
 
-table thead{
+table thead {
     border-bottom: double 3px #ccc;
 }
 
@@ -17,33 +18,35 @@ table th, td {
     border-right:solid 1px #CCC; 
     padding: 5px 10px;
 }
+
 table th:first-of-type, td:first-of-type {
     border-left:solid 1px #CCC;
 }
+
 table tr:nth-child(2n) td {
     background: #D6E0FE;
 }
 
-table th{
+table th {
     border: solid 1px #ccc;
     padding: 5px;
 }
 
-#tabel2{
+#tabel2 {
     padding-left: 0;
     padding-top: 20px;
     padding-bottom: 40px;
 }
 
-#tabel2 td, a{
+#tabel2 td {
     border-color: white;
 }
 
-#tabel2 h4{
+#tabel2 h4 {
     font-style: italic;
     padding-left: 100px;
 }
 
-#tabel2 p{
+#tabel2 p {
     padding-left: 100px;
 }
